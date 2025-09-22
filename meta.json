@@ -1,0 +1,34 @@
+{
+  "siteUrl": "http://localhost:8881",
+  "phpVersion": "8.3",
+  "wordpressVersion": "6.8.2",
+  "plugins": [
+    {
+      "name": "akismet",
+      "status": "inactive",
+      "version": "5.4"
+    },
+    {
+      "name": "hello",
+      "status": "inactive",
+      "version": "1.7.2"
+    }
+  ],
+  "themes": [
+    {
+      "name": "twentytwentyfive",
+      "status": "active",
+      "version": "1.3"
+    },
+    {
+      "name": "twentytwentyfour",
+      "status": "inactive",
+      "version": "1.3"
+    },
+    {
+      "name": "twentytwentythree",
+      "status": "inactive",
+      "version": "1.6"
+    }
+  ]
+}
